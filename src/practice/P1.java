@@ -6,7 +6,7 @@ public class P1 {
 	{
 		
 
-		System.out.println("India123");
+		System.out.println("India12");
 
 	}
 
