@@ -1,0 +1,54 @@
+[33mcommit 18f11d5729f66afff9305209acd32df6d6055aac[m[33m ([m[1;36mHEAD -> [m[1;32mnew1[m[33m, [m[1;31mpractice/new1[m[33m)[m
+Author: vaibhav <vai10scriet@gmail.com>
+Date:   Tue Nov 22 18:10:59 2022 +0530
+
+    Reverting "fifth commit"
+    and this is rvert commit
+    This reverts commit 6fffec9d88cc3684e4f041b85d8eb39d3f3b5a74.
+
+[33mcommit 6fffec9d88cc3684e4f041b85d8eb39d3f3b5a74[m
+Author: vaibhav <vai10scriet@gmail.com>
+Date:   Tue Nov 22 18:03:18 2022 +0530
+
+    fifth commit
+
+[33mcommit e1f36bd77f4ad75db78f74b12ad1d63c7f6e2c08[m
+Merge: 05e15e7 18efa26
+Author: vaibhav <vai10scriet@gmail.com>
+Date:   Tue Nov 22 17:59:21 2022 +0530
+
+    fourth commit
+
+[33mcommit 05e15e7c5bc0fbaa56618a59b99b24a673e3e73e[m
+Author: vaibhav <vai10scriet@gmail.com>
+Date:   Tue Nov 22 17:53:19 2022 +0530
+
+    Revert "third commit"
+    
+    This reverting the commit 4b3117aa6ca4f9a9bbcd7caf4b330596ebaee93f.
+    
+    exit
+
+[33mcommit 18efa267149306e1dbff79e47bd5ad5544b426de[m[33m ([m[1;31mpractice/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: vaibhav <vai10scriet@gmail.com>
+Date:   Tue Nov 22 16:43:46 2022 +0530
+
+    fourth commit
+
+[33mcommit 4b3117aa6ca4f9a9bbcd7caf4b330596ebaee93f[m
+Author: vaibhav <vai10scriet@gmail.com>
+Date:   Tue Nov 22 16:26:10 2022 +0530
+
+    third commit
+
+[33mcommit 0e806a5a4e6956784a4c92842425b74613121144[m
+Author: vaibhav <vai10scriet@gmail.com>
+Date:   Tue Nov 22 16:19:54 2022 +0530
+
+    second commit
+
+[33mcommit 7b9aad90b4d2c516b599f8b0009fa9b907d8fb1d[m
+Author: vaibhav <vai10scriet@gmail.com>
+Date:   Tue Nov 22 16:10:10 2022 +0530
+
+    First commit
